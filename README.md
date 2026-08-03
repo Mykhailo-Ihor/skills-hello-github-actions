@@ -1,3 +1,4 @@
+[![CI](https://github.com/Mykhailo-Ihor/skills-hello-github-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/Mykhailo-Ihor/skills-hello-github-actions/actions/workflows/ci.yml)
 
 <div align="center">
 
